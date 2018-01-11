@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Hakon Ressources/Scenes/MainMenuScene.unity
+    guid: 24ea1f11c53f2714297575fcdea158de
+  - enabled: 1
+    path: Assets/Hakon Ressources/Scenes/ARHub.unity
+    guid: 4c6d2c491fd4541449ef2d1313077abb

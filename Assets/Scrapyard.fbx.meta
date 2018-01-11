@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: bff97455796dcef45a34528912270602
+timeCreated: 1510773725
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Brett
+    100002: Brett.001
+    100004: Brett.002
+    100006: Brett.003
+    100008: Brett.004
+    100010: Brett.005
+    100012: Brett.006
+    100014: Cube
+    100016: Cylinder
+    100018: 'HAufen2 '
+    100020: HAufen2 .001
+    100022: HAufen2 .001_MeshPart0
+    100024: HAufen2 .001_MeshPart1
+    100026: HAufen2 .001_MeshPart2
+    100028: HAufen2 .001_MeshPart3
+    100030: HAufen2 .001_MeshPart4
+    100032: HAufen2 .001_MeshPart5
+    100034: HAufen2 .001_MeshPart6
+    100036: HAufen2 .001_MeshPart7
+    100038: HAufen2 .001_MeshPart8
+    100040: Haus
+    100042: Haus.001
+    100044: Haus.001_MeshPart0
+    100046: Haus.001_MeshPart1
+    100048: Haus.001_MeshPart10
+    100050: Haus.001_MeshPart11
+    100052: Haus.001_MeshPart12
+    100054: Haus.001_MeshPart13
+    100056: Haus.001_MeshPart2
+    100058: Haus.001_MeshPart3
+    100060: Haus.001_MeshPart4
+    100062: Haus.001_MeshPart5
+    100064: Haus.001_MeshPart6
+    100066: Haus.001_MeshPart7
+    100068: Haus.001_MeshPart8
+    100070: Haus.001_MeshPart9
+    100072: Schrotthaufen
+    100074: Schrotthaufen.001
+    100076: Schrotthaufen.001_MeshPart0
+    100078: Schrotthaufen.001_MeshPart1
+    100080: Schrotthaufen.001_MeshPart2
+    100082: Schrotthaufen.001_MeshPart3
+    100084: Schrotthaufen.001_MeshPart4
+    100086: Schrotthaufen.001_MeshPart5
+    100088: Schrotthaufen.001_MeshPart6
+    100090: Schrotthaufen.001_MeshPart7
+    100092: Schrotthaufen.001_MeshPart8
+    100094: Schrotthaufen.001_MeshPart9
+    100096: //RootNode
+    100098: "Stahltr\xE4ger"
+    400000: Brett
+    400002: Brett.001
+    400004: Brett.002
+    400006: Brett.003
+    400008: Brett.004
+    400010: Brett.005
+    400012: Brett.006
+    400014: Cube
+    400016: Cylinder
+    400018: 'HAufen2 '
+    400020: HAufen2 .001
+    400022: HAufen2 .001_MeshPart0
+    400024: HAufen2 .001_MeshPart1
+    400026: HAufen2 .001_MeshPart2
+    400028: HAufen2 .001_MeshPart3
+    400030: HAufen2 .001_MeshPart4
+    400032: HAufen2 .001_MeshPart5
+    400034: HAufen2 .001_MeshPart6
+    400036: HAufen2 .001_MeshPart7
+    400038: HAufen2 .001_MeshPart8
+    400040: Haus
+    400042: Haus.001
+    400044: Haus.001_MeshPart0
+    400046: Haus.001_MeshPart1
+    400048: Haus.001_MeshPart10
+    400050: Haus.001_MeshPart11
+    400052: Haus.001_MeshPart12
+    400054: Haus.001_MeshPart13
+    400056: Haus.001_MeshPart2
+    400058: Haus.001_MeshPart3
+    400060: Haus.001_MeshPart4
+    400062: Haus.001_MeshPart5
+    400064: Haus.001_MeshPart6
+    400066: Haus.001_MeshPart7
+    400068: Haus.001_MeshPart8
+    400070: Haus.001_MeshPart9
+    400072: Schrotthaufen
+    400074: Schrotthaufen.001
+    400076: Schrotthaufen.001_MeshPart0
+    400078: Schrotthaufen.001_MeshPart1
+    400080: Schrotthaufen.001_MeshPart2
+    400082: Schrotthaufen.001_MeshPart3
+    400084: Schrotthaufen.001_MeshPart4
+    400086: Schrotthaufen.001_MeshPart5
+    400088: Schrotthaufen.001_MeshPart6
+    400090: Schrotthaufen.001_MeshPart7
+    400092: Schrotthaufen.001_MeshPart8
+    400094: Schrotthaufen.001_MeshPart9
+    400096: //RootNode
+    400098: "Stahltr\xE4ger"
+    2300000: Brett
+    2300002: Brett.001
+    2300004: Brett.002
+    2300006: Brett.003
+    2300008: Brett.004
+    2300010: Brett.005
+    2300012: Brett.006
+    2300014: Cube
+    2300016: Cylinder
+    2300018: 'HAufen2 '
+    2300020: HAufen2 .001_MeshPart0
+    2300022: HAufen2 .001_MeshPart1
+    2300024: HAufen2 .001_MeshPart2
+    2300026: HAufen2 .001_MeshPart3
+    2300028: HAufen2 .001_MeshPart4
+    2300030: HAufen2 .001_MeshPart5
+    2300032: HAufen2 .001_MeshPart6
+    2300034: HAufen2 .001_MeshPart7
+    2300036: HAufen2 .001_MeshPart8
+    2300038: Haus
+    2300040: Haus.001_MeshPart0
+    2300042: Haus.001_MeshPart1
+    2300044: Haus.001_MeshPart10
+    2300046: Haus.001_MeshPart11
+    2300048: Haus.001_MeshPart12
+    2300050: Haus.001_MeshPart13
+    2300052: Haus.001_MeshPart2
+    2300054: Haus.001_MeshPart3
+    2300056: Haus.001_MeshPart4
+    2300058: Haus.001_MeshPart5
+    2300060: Haus.001_MeshPart6
+    2300062: Haus.001_MeshPart7
+    2300064: Haus.001_MeshPart8
+    2300066: Haus.001_MeshPart9
+    2300068: Schrotthaufen
+    2300070: Schrotthaufen.001_MeshPart0
+    2300072: Schrotthaufen.001_MeshPart1
+    2300074: Schrotthaufen.001_MeshPart2
+    2300076: Schrotthaufen.001_MeshPart3
+    2300078: Schrotthaufen.001_MeshPart4
+    2300080: Schrotthaufen.001_MeshPart5
+    2300082: Schrotthaufen.001_MeshPart6
+    2300084: Schrotthaufen.001_MeshPart7
+    2300086: Schrotthaufen.001_MeshPart8
+    2300088: Schrotthaufen.001_MeshPart9
+    2300090: "Stahltr\xE4ger"
+    3300000: Brett
+    3300002: Brett.001
+    3300004: Brett.002
+    3300006: Brett.003
+    3300008: Brett.004
+    3300010: Brett.005
+    3300012: Brett.006
+    3300014: Cube
+    3300016: Cylinder
+    3300018: 'HAufen2 '
+    3300020: HAufen2 .001_MeshPart0
+    3300022: HAufen2 .001_MeshPart1
+    3300024: HAufen2 .001_MeshPart2
+    3300026: HAufen2 .001_MeshPart3
+    3300028: HAufen2 .001_MeshPart4
+    3300030: HAufen2 .001_MeshPart5
+    3300032: HAufen2 .001_MeshPart6
+    3300034: HAufen2 .001_MeshPart7
+    3300036: HAufen2 .001_MeshPart8
+    3300038: Haus
+    3300040: Haus.001_MeshPart0
+    3300042: Haus.001_MeshPart1
+    3300044: Haus.001_MeshPart10
+    3300046: Haus.001_MeshPart11
+    3300048: Haus.001_MeshPart12
+    3300050: Haus.001_MeshPart13
+    3300052: Haus.001_MeshPart2
+    3300054: Haus.001_MeshPart3
+    3300056: Haus.001_MeshPart4
+    3300058: Haus.001_MeshPart5
+    3300060: Haus.001_MeshPart6
+    3300062: Haus.001_MeshPart7
+    3300064: Haus.001_MeshPart8
+    3300066: Haus.001_MeshPart9
+    3300068: Schrotthaufen
+    3300070: Schrotthaufen.001_MeshPart0
+    3300072: Schrotthaufen.001_MeshPart1
+    3300074: Schrotthaufen.001_MeshPart2
+    3300076: Schrotthaufen.001_MeshPart3
+    3300078: Schrotthaufen.001_MeshPart4
+    3300080: Schrotthaufen.001_MeshPart5
+    3300082: Schrotthaufen.001_MeshPart6
+    3300084: Schrotthaufen.001_MeshPart7
+    3300086: Schrotthaufen.001_MeshPart8
+    3300088: Schrotthaufen.001_MeshPart9
+    3300090: "Stahltr\xE4ger"
+    4300000: Haus.001_MeshPart0
+    4300002: Haus.001_MeshPart1
+    4300004: Haus.001_MeshPart2
+    4300006: Haus.001_MeshPart3
+    4300008: Haus.001_MeshPart4
+    4300010: Haus.001_MeshPart5
+    4300012: Haus.001_MeshPart6
+    4300014: Haus.001_MeshPart7
+    4300016: Haus.001_MeshPart8
+    4300018: Haus.001_MeshPart9
+    4300020: Haus.001_MeshPart10
+    4300022: Haus.001_MeshPart11
+    4300024: Haus.001_MeshPart12
+    4300026: Haus.001_MeshPart13
+    4300028: Schrotthaufen.001_MeshPart0
+    4300030: Schrotthaufen.001_MeshPart1
+    4300032: Schrotthaufen.001_MeshPart2
+    4300034: Schrotthaufen.001_MeshPart3
+    4300036: Schrotthaufen.001_MeshPart4
+    4300038: Schrotthaufen.001_MeshPart5
+    4300040: Schrotthaufen.001_MeshPart6
+    4300042: Schrotthaufen.001_MeshPart7
+    4300044: Schrotthaufen.001_MeshPart8
+    4300046: Schrotthaufen.001_MeshPart9
+    4300048: HAufen2 .001_MeshPart0
+    4300050: HAufen2 .001_MeshPart1
+    4300052: HAufen2 .001_MeshPart2
+    4300054: HAufen2 .001_MeshPart3
+    4300056: HAufen2 .001_MeshPart4
+    4300058: HAufen2 .001_MeshPart5
+    4300060: HAufen2 .001_MeshPart6
+    4300062: HAufen2 .001_MeshPart7
+    4300064: HAufen2 .001_MeshPart8
+    4300066: 'HAufen2 '
+    4300068: Cube
+    4300070: Cylinder
+    4300072: Brett.006
+    4300074: Brett.005
+    4300076: Brett.004
+    4300078: Brett.003
+    4300080: Brett.002
+    4300082: Brett.001
+    4300084: Brett
+    4300086: "Stahltr\xE4ger"
+    4300088: Schrotthaufen
+    4300090: Haus
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 56507788fb6e6b44ba1bfa059d984079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: c3f603dabd94ad4488ab2509d4bf264b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 210b9949b169ce64aa351bacaf696c17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: ff0b1cfa886be744e9fc8ca29aff804e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
