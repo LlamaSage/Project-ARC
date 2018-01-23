@@ -46,10 +46,12 @@ MonoBehaviour:
     dataSetsToLoad:
     - VuforiaMars_Images
     - VuforiaMars_VuMark
+    - Legacy_Final
     - Legacy_Prototype_Panels
     dataSetsToActivate:
     - VuforiaMars_Images
     - VuforiaMars_VuMark
+    - Legacy_Final
     - Legacy_Prototype_Panels
   videoBackground:
     clippingMode: 0

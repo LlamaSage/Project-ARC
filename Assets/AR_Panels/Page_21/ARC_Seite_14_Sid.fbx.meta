@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: ee62a00c550dc47c48e80ac8cfeec40c
+timeCreated: 1516730556
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Beard1
+    100004: Beard2
+    100006: Beard3
+    100008: Beard4
+    100010: Beard5
+    100012: Beard_end
+    100014: Eye1
+    100016: Eye10
+    100018: Eye2
+    100020: Eye3
+    100022: Eye4
+    100024: Eye5
+    100026: Eye6
+    100028: Eye7
+    100030: Eye8
+    100032: Eye9
+    100034: Halterung
+    100036: Head
+    100038: Head_Back
+    100040: Head_End
+    100042: Head_Front
+    100044: Hip
+    100046: l_ArmEnd
+    100048: l_bottommouthcorner
+    100050: l_Eyebrow1
+    100052: l_eyebrow2
+    100054: l_eyebrow3
+    100056: l_eyebrow4
+    100058: l_Hat1
+    100060: l_Hat2
+    100062: l_Hat3
+    100064: l_topmouthcorner
+    100066: l_UpperArm
+    100068: Neck
+    100070: NoseBridge
+    100072: polySurface1
+    100074: polySurface2
+    100076: polySurface3
+    100078: polySurface4
+    100080: polySurface5
+    100082: polySurface6
+    100084: polySurface7
+    100086: polySurface8
+    100088: polySurface9
+    100090: Pupil
+    100092: r_bottommouthcorner
+    100094: r_Eyebrow1
+    100096: r_Eyebrow2
+    100098: r_Eyebrow3
+    100100: r_Eyebrow4
+    100102: r_Hand
+    100104: r_Hand_Front
+    100106: r_Hat1
+    100108: r_Hat2
+    100110: r_Hat_End
+    100112: r_LowerArm
+    100114: r_Sleeve
+    100116: r_Sleeve_End
+    100118: r_topmouthcorner
+    100120: r_UpperArm
+    100122: Rad
+    100124: Rad 1
+    100126: Root
+    100128: Sid_Mesh
+    100130: Spine1
+    100132: Spine1_back
+    100134: Spine1_Front
+    100136: Spine2
+    100138: Spine2_Back
+    100140: Spine2_Front
+    100142: Spine3
+    100144: Spine3_Back
+    100146: Spine3_Front
+    100148: Streben
+    100150: transform1
+    100152: transform2
+    400000: //RootNode
+    400002: Beard1
+    400004: Beard2
+    400006: Beard3
+    400008: Beard4
+    400010: Beard5
+    400012: Beard_end
+    400014: Eye1
+    400016: Eye10
+    400018: Eye2
+    400020: Eye3
+    400022: Eye4
+    400024: Eye5
+    400026: Eye6
+    400028: Eye7
+    400030: Eye8
+    400032: Eye9
+    400034: Halterung
+    400036: Head
+    400038: Head_Back
+    400040: Head_End
+    400042: Head_Front
+    400044: Hip
+    400046: l_ArmEnd
+    400048: l_bottommouthcorner
+    400050: l_Eyebrow1
+    400052: l_eyebrow2
+    400054: l_eyebrow3
+    400056: l_eyebrow4
+    400058: l_Hat1
+    400060: l_Hat2
+    400062: l_Hat3
+    400064: l_topmouthcorner
+    400066: l_UpperArm
+    400068: Neck
+    400070: NoseBridge
+    400072: polySurface1
+    400074: polySurface2
+    400076: polySurface3
+    400078: polySurface4
+    400080: polySurface5
+    400082: polySurface6
+    400084: polySurface7
+    400086: polySurface8
+    400088: polySurface9
+    400090: Pupil
+    400092: r_bottommouthcorner
+    400094: r_Eyebrow1
+    400096: r_Eyebrow2
+    400098: r_Eyebrow3
+    400100: r_Eyebrow4
+    400102: r_Hand
+    400104: r_Hand_Front
+    400106: r_Hat1
+    400108: r_Hat2
+    400110: r_Hat_End
+    400112: r_LowerArm
+    400114: r_Sleeve
+    400116: r_Sleeve_End
+    400118: r_topmouthcorner
+    400120: r_UpperArm
+    400122: Rad
+    400124: Rad 1
+    400126: Root
+    400128: Sid_Mesh
+    400130: Spine1
+    400132: Spine1_back
+    400134: Spine1_Front
+    400136: Spine2
+    400138: Spine2_Back
+    400140: Spine2_Front
+    400142: Spine3
+    400144: Spine3_Back
+    400146: Spine3_Front
+    400148: Streben
+    400150: transform1
+    400152: transform2
+    2100000: sid_material
+    2100002: Steuerrad
+    2100004: steuerradstreben
+    4300000: polySurface3
+    4300002: polySurface4
+    4300004: polySurface5
+    4300006: polySurface6
+    4300008: polySurface7
+    4300010: polySurface8
+    4300012: polySurface9
+    4300014: Halterung
+    4300016: polySurface1
+    4300018: polySurface2
+    4300020: Streben
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Halterung
+    13700002: polySurface1
+    13700004: polySurface2
+    13700006: polySurface3
+    13700008: polySurface4
+    13700010: polySurface5
+    13700012: polySurface6
+    13700014: polySurface7
+    13700016: polySurface8
+    13700018: polySurface9
+    13700020: Streben
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steuerrad
+    second: {fileID: 2100000, guid: fd49dcb63d3704177981b9390120dbc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sid_material
+    second: {fileID: 2100000, guid: 39bbf84aa98224d65b913efa2838acbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: steuerradstreben
+    second: {fileID: 2100000, guid: c44224fe1ca3c4e2c915913378be8b46, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

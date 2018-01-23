@@ -22,7 +22,7 @@ public class SceneLoaderScript : MonoBehaviour {
     public void OnMouseUp()
     {
         Debug.Log("UP at " + (Time.time - startTime));
-        if(Time.time - startTime >= 2.0f)
+        if(Time.time - startTime >= 1.0f)
         {
             SceneManager.LoadScene(loadSceneIndex);
         }
@@ -39,10 +39,10 @@ public class SceneLoaderScript : MonoBehaviour {
 
     public void OnMouseDrag()
     {
-        if(Time.time - startTime < 2.0f)
+        if(Time.time - startTime < 1.0f)
         {
             
-            transform.Rotate(new Vector3(1, 1, 1));
+            transform.Rotate(new Vector3(0, 1, 0));
         }
     }
 }
